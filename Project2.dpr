@@ -1,8 +1,8 @@
-program Project1;
+program Project2;
 
 uses
   Forms,
-  Unit1 in 'C:\Program Files (x86)\Borland\Delphi7\Projects\Unit1.pas' {Form1};
+  hubungan in 'hubungan.pas' {Form1};
 
 {$R *.res}
 
